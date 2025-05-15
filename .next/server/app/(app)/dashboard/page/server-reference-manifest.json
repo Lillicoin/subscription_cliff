@@ -1,0 +1,60 @@
+{
+  "node": {
+    "406a97eebd30ca9e08434d3a7f6afd80a08a40f404": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-subscription-cancellation-suggestions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-powered-budget-recommendations.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/predictive-broke-date-forecasting.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/subscription-leak-detection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/ai-subscription-suggestions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    },
+    "402305d3580958af1feb99a7eff622bd2059837844": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-subscription-cancellation-suggestions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-powered-budget-recommendations.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/predictive-broke-date-forecasting.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/subscription-leak-detection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/ai-subscription-suggestions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    },
+    "401b451d2c1c747bda1c8a2288c7ef794ce8e6f4cd": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-subscription-cancellation-suggestions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-powered-budget-recommendations.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/predictive-broke-date-forecasting.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/subscription-leak-detection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/ai-subscription-suggestions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    },
+    "40f33c509740d983a3e9fa9ac4eca7ee3907e408f5": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-subscription-cancellation-suggestions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-powered-budget-recommendations.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/predictive-broke-date-forecasting.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/subscription-leak-detection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/ai-subscription-suggestions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    },
+    "40efc9d1ec9e7ff90954202c4c02db4f9bac5fd456": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/ai-subscription-cancellation-suggestions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/ai-powered-budget-recommendations.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/predictive-broke-date-forecasting.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/subscription-leak-detection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/src/ai/flows/ai-subscription-suggestions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
